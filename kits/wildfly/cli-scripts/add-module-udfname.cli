@@ -1,0 +1,3 @@
+module add --name=flipkart5 --resources=fridge.1.0-SNAPSHOT.jar --dependencies=javax.api,org.slf4j
+
+
